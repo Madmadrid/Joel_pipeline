@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Pipeline Test</title>
+</head>
+<body style="background-color: green; color: white; text-align: center; padding: 50px;">
+  <h1>Congratulations Joel!</h1>
+  <p>You have successfully created a GitHub Actions pipeline and deployed your page automatically.</p>
+</body>
+</html>
